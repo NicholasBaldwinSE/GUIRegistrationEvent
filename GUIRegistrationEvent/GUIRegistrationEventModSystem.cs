@@ -1,8 +1,6 @@
 ﻿using Vintagestory.API.Common;
 using HarmonyLib;
 using Vintagestory.API.Client;
-using System;
-using System.Runtime.CompilerServices;
 
 namespace GUIRegistrationEvent
 {
