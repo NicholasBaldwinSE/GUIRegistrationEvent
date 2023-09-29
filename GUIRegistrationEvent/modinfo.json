@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "guiregistrationevent",
+    "name": "GUIRegistrationEvent",
+    "authors": [
+        "LordClips"
+    ],
+    "description": "Adds a subscribable event for GUI registration.",
+    "version": "1.0.0",
+  "dependencies": {
+    "game": "1.18.3"
+  },
+  "requiredOnServer":  false
+}
